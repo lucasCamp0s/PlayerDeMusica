@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FormativaLucas</string>
+    <string name="btnEntar">Entrar</string>
+    <string name="btnCadastro">Cadastre-se</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="nomeApp">LandellPlay</string>
+</resources>
